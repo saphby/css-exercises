@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.first {
+    background-color: 242,102,4;
+    color: white;
+}
+
+.second {
+    background-color: aqua;
+}
+
+.first,
+.second {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+}
